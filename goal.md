@@ -1,4 +1,5 @@
 [CO-ERA](http://www.co-era.com)
+
 #Web analytics using elasticsearch
 
 #Statement of intent
@@ -27,7 +28,7 @@ Web analytics trackers are not in scope of this project.
 #Statement of work
 The application will be implemented using .net framework libraries and c# language. 
 Visual Studio 2013 will be the development tool.
-The code base will be hosted on a public repository on github [repolink](http://github.com)
+The code base will be hosted on a public repository on github [repolink](https://github.com/CO-ERA/Web-analytics-elasticsearch)
 The log is going to be delivered as a text file? (or json).
 
 The application design will be documented and explained.
@@ -42,3 +43,4 @@ Sample data will be created by anonymization of the data collected from a real l
 It is possible that not all the questions from the Statement of intent can be answered. For the ones that cannot be answered a rational and alternative solution will be described.
 
 #Results
+Work in progress.
