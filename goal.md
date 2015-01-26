@@ -3,7 +3,7 @@
 #Web analytics using elasticsearch
 
 #Statement of intent
-This project is a Proof of Concept. The goal is to create a web analytics application using elasticsearch. The information to be analyzed is collected from the incomming http requests to a web site.
+This project is a Proof of Concept. The goal is to implement web analytics functions using elasticsearch. The information to be analyzed is collected from the incomming http requests to a web site.
 
 There are a series of questions that will be answered:
 
